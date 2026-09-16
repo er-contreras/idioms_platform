@@ -13,12 +13,12 @@ body {
   font-size: 5rem;
 }
 
-.top-section, .groups-list {
+.top-section, .groups-list, .group-wrapper {
   border: 1px solid black;
 }
 
 .groups-list {
 }
 
-.group-wrapper ul {
+.group-wrapper {
 }
