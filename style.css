@@ -37,6 +37,20 @@ main h2 {
   padding: 2rem;
 }
 
+.groups-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.groups-header h2 {
+  display: contents;
+}
+
+.groups-header span {
+  margin: auto 0;
+  font-family: emoji;
+}
+
 .group-wrapper {
   border: 1px solid white;
   padding: 6rem;
