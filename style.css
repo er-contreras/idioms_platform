@@ -55,3 +55,10 @@ main h2 {
   border: 1px solid white;
   padding: 6rem;
 }
+
+.group-wrapper button {
+  font-size: 5rem;
+  padding: 3rem;
+  border-radius: 6rem;
+  margin-top: 6rem;
+}
