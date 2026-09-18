@@ -61,4 +61,5 @@ main h2 {
   padding: 3rem;
   border-radius: 6rem;
   margin-top: 6rem;
+  border: unset;
 }
